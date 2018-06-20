@@ -21,14 +21,10 @@ body, table, th, td {
                             <th colspan="2" style="color: blue; background-color: red"> <a href="반응바탕 - 중.html" target="if_a">반응연습</a> </th>
   </tr>
   <tr>
-
-    <th  colspan="4"> <a href="점수 화면.html" target="if_a">점수화면</td>
-
-</table>
+ <th  colspan="4"> <a href="점수 화면.html" target="if_a">
         <center>
                 <iframe src="점수 화면.html"
                         width="100%" height="100%" name="if_a"
                         frameborder="1"></iframe>
             </center>
-            </body>
-</html>
+            <!----!>
