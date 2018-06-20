@@ -7,7 +7,7 @@ table, th, td
     border: 1px solid black;
     border-collapse: collapse;
 }
-table, th, td {
+body, table, th, td {
     padding: 5px;
     text-align: center;    
 }
