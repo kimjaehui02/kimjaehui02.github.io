@@ -25,5 +25,4 @@ body, table, th, td {
          <center>
                       <iframe src="조준바탕 - 중.html" width="100%" height="100%" name="if_a" frameborder="1"></iframe>
                   </center>
-          </body>
-          </html>
+
